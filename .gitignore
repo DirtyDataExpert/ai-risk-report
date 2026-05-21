@@ -1,0 +1,6 @@
+venv/
+reports/
+*.csv
+*.txt
+*.ods
+.~lock*
